@@ -7,7 +7,7 @@ git --version
 
 cp /data/options.json ring-mqtt/config.json
 
-cd ring-alarm-mqtt
+cd ring-mqtt
 npm install
 npm audit fix
 chmod +x ring-mqtt.js
